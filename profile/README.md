@@ -1,6 +1,8 @@
 # Oxford Engine Icing Group
 
-Part of the Particle Deposition Group, Oxford Thermofluids Institute, University of Oxford
+Part of the Particle Deposition Group, Oxford Thermofluids Institute, University of Oxford.
+
+![Logo](oxford-engine-icing-group.png)
 
 ## People
 
