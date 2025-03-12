@@ -1,4 +1,4 @@
-<img src="/profile/oxford-engine-icing-group.png" alt="Logo" width="20%">
+<img src="/profile/oxford-logo.png" alt="University of Oxford logo." width="15%" height=auto/> <img src="/profile/oti-logo.png" alt="Oxford Thermofluids Institute logo." width=auto height="15%"/> <img src="/profile/oxford-engine-icing-group.png" alt="Oxford Engine Icing Group logo." width="15%" height=auto/>
 
 # Oxford Engine Icing Group
 
