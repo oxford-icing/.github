@@ -1,4 +1,4 @@
-<img src="oxford-engine-icing-group.png" alt="Logo" width="20%">
+<img src="./oxford-engine-icing-group.png" alt="Logo" width="20%">
 
 # Oxford Engine Icing Group
 
