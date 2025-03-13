@@ -11,4 +11,4 @@ Part of the Particle Deposition Group, Oxford Thermofluids Institute, University
 [Dr Natan Zawadski](https://www.linkedin.com/in/natanzawadzki/)  
 Liam Parker  
 [Thomas Cross](https://www.linkedin.com/in/thomas-js-cross/)  
-[Matt Lenahan](https://www.linkedin.com/in/mattlenahan/)  
+[Matt Lenahan](https://mattlenahan.co.uk)  
