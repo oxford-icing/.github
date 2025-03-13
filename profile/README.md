@@ -9,6 +9,6 @@ Part of the Particle Deposition Group, Oxford Thermofluids Institute, University
 [Professor David Gillespie](https://www.linkedin.com/in/david-gillespie-75ba0215/)  
 [Professor Matthew McGilvray](https://www.linkedin.com/in/matthew-mcgilvray-aa4586260/)  
 [Dr Natan Zawadski](https://www.linkedin.com/in/natanzawadzki/)  
-Liam Parker  
+[Liam Parker](https://www.researchgate.net/profile/Liam-Parker-2)  
 [Thomas Cross](https://www.linkedin.com/in/thomas-js-cross/)  
 [Matt Lenahan](https://mattlenahan.co.uk)  
