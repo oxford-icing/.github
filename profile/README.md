@@ -12,3 +12,4 @@ Part of the Particle Deposition Group, Oxford Thermofluids Institute, University
 [Liam Parker](https://www.researchgate.net/profile/Liam-Parker-2)  
 [Thomas Cross](https://www.linkedin.com/in/thomas-js-cross/)  
 [Matt Lenahan](https://mattlenahan.co.uk)  
+[Robert Barber](https://www.linkedin.com/in/robsbarber/)
